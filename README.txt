@@ -1,0 +1,3 @@
+Youvernance is an idea I have for a holochain app that replaces representative government with somewhat direct governance by offering real-world incentives to citizens for participating in local, state, and federal politics. This app will be nonpartisan, not monetized, open source, and transparent, and will *hopefully* integrate holochain technology and liquid democracy principles to give every citizen the motivation to participate in politics, while providing them with an all-inclusive platform from which to do so safely and securely.
+
+That's all I have at the time of writing! Please feel free to join in the fray if you agree that this is a worthy cause. The more, the merrier!
